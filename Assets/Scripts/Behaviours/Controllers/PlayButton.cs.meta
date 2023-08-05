@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: add9665214937f148b49a524784c09b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - oldImage: {instanceID: 0}
+  - newSpriteGrass: {fileID: 21300000, guid: 27b43544c51a0e646a071c51d456b03a, type: 3}
+  - newSpriteDesert: {instanceID: 0}
+  - newSpriteIce: {instanceID: 0}
+  - newSpriteDungeon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

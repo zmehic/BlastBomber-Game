@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f266e3251600764d97f2f3a0f81ebe8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boundaryBlockPrefab: {instanceID: 0}
+  - levelBlock: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - levelImage: {instanceID: 0}
+  - tekstura: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

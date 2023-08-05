@@ -1,0 +1,25 @@
+{
+    "name": "BlastBomberV2.Behaviours.Controllers",
+    "rootNamespace": "BlastBomberV2",
+    "references": [
+        "GUID:b8ddfa6b088c77b419ad0e76ca44e03f",
+        "GUID:57c5e30152f1e534f827e69c95f3388c",
+        "GUID:59ebd916069ab6f41bb12aea2312a785",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:656e461844099ae43a609ff6109b0877",
+        "GUID:bb05cab7d802aa5468f8f2f86840d984",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:329b4ccd385744985bf3f83cfd77dfe7",
+        "GUID:904d80dccad704a3f95e42bd0ad5d960"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
