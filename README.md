@@ -9,7 +9,8 @@ The game is still very buggy and needs a lot of code cleanup, but it shows some 
 Steps to start:
   1. Remove Untitled Scene and choose MainMenu Scene;
 
-  ![Screenshot 2023-08-05 150907](https://github.com/zmehic/BlastBomber-Game/assets/60481114/664cf98d-0f5a-49a9-81d4-4e17f28afffd) ![Screenshot 2023-08-05 150907](https://github.com/zmehic/BlastBomber-Game/assets/60481114/664cf98d-0f5a-49a9-81d4-4e17f28afffd)
+  ![Screenshot 2023-08-05 150907](https://github.com/zmehic/BlastBomber-Game/assets/60481114/664cf98d-0f5a-49a9-81d4-4e17f28afffd) ![Screenshot 2023-08-05 150936](https://github.com/zmehic/BlastBomber-Game/assets/60481114/5f69dfc5-1c83-4a27-8a2f-81c8bebcfdaf)
+
   
 
   3. Choose 1920x1080 resolution;
