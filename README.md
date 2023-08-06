@@ -1,7 +1,7 @@
 # BlastBomber-Game
 
 ## Description
-Blast Bomber is a project done to complete my grade in the subject called "Computer graphics (Kompjuterska grafika - KGR)" on the Faculty of Information technologies in Mostar. It was a joint effort from my colleague Karabeg Naida and I to recreate a 1985 game called "Bomberman" in a 3D world, along with some character and gameplay modifications.
+Blast Bomber is a Unity3D project done to complete my grade in the subject called "Computer graphics (Kompjuterska grafika - KGR)" on the Faculty of Information technologies in Mostar. It was a joint effort from my colleague Karabeg Naida and I to recreate a 1985 game called "Bomberman" in a 3D world, along with some character and gameplay modifications.
 
 The game is still very buggy and needs a lot of code cleanup, but it shows some of the basic concepts we learned on the subject and on our own.
 
